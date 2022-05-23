@@ -1,0 +1,16 @@
+JAVA API 
+
+강의자료 :
+
+https://github.com/bitcocom/JavaTPCProject/
+
+
+1강. 객체를 표현하자
+
+XML
+ㄴ태그를 붙혀서 구분을 한다. 
+ㄴ
+
+Json
+ㄴkey 값과 value 값이 pair
+	
